@@ -90,27 +90,6 @@ Before SABITA: game-server infrastructure at **Frostline Games** and a data-scie
 
 ---
 
-
-<div align="center">
-
-<a href="https://github.com/Mohammed-Alhuraibi/REPLACE_REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-Alhuraibi&repo=REPLACE_REPO_1&theme=tokyonight&hide_border=true&title_color=326CE5" />
-</a>
-<a href="https://github.com/Mohammed-Alhuraibi/REPLACE_REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-Alhuraibi&repo=REPLACE_REPO_2&theme=tokyonight&hide_border=true&title_color=326CE5" />
-</a>
-<br>
-<a href="https://github.com/Mohammed-Alhuraibi/REPLACE_REPO_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-Alhuraibi&repo=REPLACE_REPO_3&theme=tokyonight&hide_border=true&title_color=326CE5" />
-</a>
-<a href="https://github.com/Mohammed-Alhuraibi/REPLACE_REPO_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-Alhuraibi&repo=REPLACE_REPO_4&theme=tokyonight&hide_border=true&title_color=326CE5" />
-</a>
-
-</div>
-
----
-
 ## 📊 Stats
 
 <div align="center">
