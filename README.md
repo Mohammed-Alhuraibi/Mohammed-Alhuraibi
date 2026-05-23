@@ -94,7 +94,6 @@ Before SABITA: game-server infrastructure at **Frostline Games** and a data-scie
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Alhuraibi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&icon_color=326CE5&title_color=326CE5&hide=issues,prs" />
 <img height="160" src="https://streak-stats.demolab.com?user=Mohammed-Alhuraibi&theme=tokyonight&hide_border=true&ring=326CE5&fire=326CE5&currStreakLabel=326CE5" />
 
 <br><br>
