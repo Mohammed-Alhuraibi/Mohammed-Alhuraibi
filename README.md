@@ -82,7 +82,7 @@ Before SABITA: game-server infrastructure at **Frostline Games** and a data-scie
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=kubernetes,docker,helm,githubactions,prometheus,grafana,nginx,linux,bash,git,python,tensorflow&theme=dark&perline=12)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=kubernetes,docker,helm,githubactions,prometheus,grafana,nginx,linux,proxmox,bash,git,python,tensorflow&theme=dark&perline=12)](https://skillicons.dev)
 
 </div>
 
